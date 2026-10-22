@@ -6,8 +6,8 @@ A modern, responsive, and accessible Photo Gallery web application built with **
 
 ## 🚀 Live Demo & Repository
 
-- **Repository**: [GitHub Repository URL] *(Replace with your repository link)*
-- **Walkthrough Video**: [Video Walkthrough URL (Google Drive / Unlisted YouTube)] *(Replace with your video link)*
+- **Repository**: [https://github.com/Atharvkhot/celebrare-photo-gallery](https://github.com/Atharvkhot/celebrare-photo-gallery)
+- **Walkthrough Video**: [Video Walkthrough URL (Google Drive / Unlisted YouTube)] *(Add your video link)*
 
 ---
 
